@@ -18,7 +18,7 @@ Built a fully integrated 3-statement financial model for IRCTC with 5-year forec
 - Python + Streamlit (Live Interactive Dashboard)
 
 ## Live Dashboard
-[Click here to view the live dashboard]([https://your-link.streamlit.app](https://irctc-financial-model-fct5uve2bor3tyutqrajpy.streamlit.app/))
+[Click here to view the live dashboard](https://irctc-financial-model-fct5uve2bor3tyutqrajpy.streamlit.app/)
 
 ## Project Deliverables
 - Excel Financial Model
